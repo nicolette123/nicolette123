@@ -47,18 +47,11 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
-
----
-
 ## 📬 Contact Me  
 
 📧 **Email:** nnicky890@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/(https://linkedin.com/in/yourprofile)]
-🐦 **Twitter:** [twitter.com/(https://x.com/Nicky8901)]
+💼 **LinkedIn:** (https://www.linkedin.com/in/nicolette-mukeshimana-0a748635a/)
+🐦 **Twitter:** (https://x.com/Nicky8901)
 🌐 **Portfolio:** [https://nicky-portifolio.netlify.app/]
 
 ---
