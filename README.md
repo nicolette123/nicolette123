@@ -57,8 +57,8 @@
 ## 📬 Contact Me  
 
 📧 **Email:** nnicky890@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  ]
-🐦 **Twitter:** [twitter.com/](https://x.com/Nicky8901)]
+💼 **LinkedIn:** [linkedin.com/in/(https://linkedin.com/in/yourprofile)]
+🐦 **Twitter:** [twitter.com/(https://x.com/Nicky8901)]
 🌐 **Portfolio:** [https://nicky-portifolio.netlify.app/]
 
 ---
